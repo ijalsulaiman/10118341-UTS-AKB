@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_marginLeft="30dp"
+android:layout_marginRight="30dp"
+android:orientation="vertical"
+android:gravity="center">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hallo,Saya Muhammad Rijal Sulaeman Dari IF_8"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tujuan dari Aplikasi ini adalah untuk bisa menyimpan catatan harian"
+        android:textSize="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Namun karna keterbatasan waktu kemampuan pembuat aplikasi ini belum rampung"
+        android:textSize="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="atas kekurangan saya,saya mohon maaf sebesar-besarnya"
+        android:textSize="12dp"/>
+</LinearLayout>
